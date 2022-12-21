@@ -11,7 +11,7 @@
     "@formily/antd": "*",
     "@pusher/push-notifications-web": "^1.1.0",
     "antd": "^4.16.13",
-    "next": "^11",
+    "next": "^12",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
